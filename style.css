@@ -1,4 +1,19 @@
 .blue-text{
-    color: #0000ff;
+    color: #D2691E;
+    text-align: center;
+}
+.thick-black-border{
+    border: black solid 15px;
+    border-radius: 10%;
+}
+.grey-background{
+    background:Silver ;
+    
+}
+.smaller-image{
+    width: 500px;
+}
+.p{
+    text-align: center;
 }
 /* rgb */

@@ -5,13 +5,25 @@
 .thick-black-border{
     border: black solid 15px;
     border-radius: 10%;
+   
 }
+    img{
+        position: relative;
+        top : 200px;
+        left: 200px;
+        bottom: 0px;
+    }
 .grey-background{
     background:Silver ;
     
 }
+     a{
+         position: relative;
+         top: 300px;
+         right: 400px;
+     }
 .smaller-image{
-    width: 500px;
+    width: 1000px;
 }
 .p{
     text-align: center;
@@ -21,5 +33,16 @@
     color: black;
     border-radius: 100%;
     padding: 10px 20px 10px 20px;
+   
 }
+button:hover{ 
+    color: black;
+}
+ul{
+    float: left ;
+}
+    ol{ 
+        float: right ;
+        text-align: right;
+    }
 /* rgb */
